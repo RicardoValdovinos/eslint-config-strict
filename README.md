@@ -65,7 +65,8 @@ The following, additional rules are also enabled:
 
 ## Install
 Run the following command inside of a node project:
-`npm install @ricardovaldovinos1996/eslint-config-strict`
+
+`npm install @ricardovaldovinosorg/eslint-config-strict`
 
 ## Usage
 After installing the npm package create the following .eslintrc file in your project
