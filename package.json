@@ -1,7 +1,7 @@
 {
 	"name": "@ricardovaldovinosorg/eslint-config-strict",
 	"version": "1.0.0",
-	"description": "A strict ESLint config aimed at consistency",
+	"description": "A strict TypeScript ESM based ESLint config aimed at consistency",
 	"main": "index.js",
 	"author": "Ricardo Valdovinos <ricardovaldovinos1996@gmail.com>",
 	"license": "MIT",
