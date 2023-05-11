@@ -71,5 +71,5 @@ Run the following command inside of a node project:
 ## Usage
 After installing the npm package create the following .eslintrc file in your project
 ```
-{ "extends": ["strict"] }
+{ "extends": ["@ricardovaldovinosorg/eslint-config-strict"] }
 ```
