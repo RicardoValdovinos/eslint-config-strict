@@ -1,5 +1,5 @@
 # eslint-config-strict - WIP
-A strict TypeScript ESM based ESLint config aimed at avoiding potential bugs, removing redundancy, improving code clarity, and of course, enforcing consistency. In addition to the aforementioned traits this config also aims to enforce the use of newer, more recommended functions and language features.
+A strict TypeScript ESM based ESLint config for backends aimed at avoiding potential bugs, removing redundancy, improving code clarity, and of course, enforcing consistency. In addition to the aforementioned traits this config also aims to enforce the use of newer, more recommended functions and language features.
 
 ## Included Rules
 The eslint config extends the following configs:
